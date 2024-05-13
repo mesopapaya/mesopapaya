@@ -1,7 +1,6 @@
 <div align="center">
     <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/mesopapaya/mesopapaya/blob/main/public/github-cover.png">
-  <h1>mesopapaya</h1>
-
+  <hr/>
   <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/mesopapaya/mesopapaya/blob/main/public/github-button.png" width="194px">
     
   <p>Technical lead helping mission-driven teams make a difference.</p> 
