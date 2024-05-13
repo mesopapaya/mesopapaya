@@ -1,9 +1,9 @@
 <div align="center">
     <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/mesopapaya/mesopapaya/blob/main/public/github-cover.png">
-  <hr/>
+  <h1>Technical lead helping mission-driven teams make a difference.</h1>
   <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/mesopapaya/mesopapaya/blob/main/public/github-button.png" width="194px">
     
-  <p>Technical lead helping mission-driven teams make a difference.</p> 
+  
   </br>
 </div>
 
